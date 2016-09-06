@@ -1,0 +1,80 @@
+.pasto{
+	background-color: darkgreen;
+	width:1000px;
+	height:600px;
+	
+	
+ 
+}
+.area{
+	border:solid white;
+	width:950px;
+	height:550px; 
+	position:absolute;
+	left:30px;
+	top:30px;
+	
+
+	
+}
+.bola1{
+	width: 100px;
+	height: 100px;
+	position:relative;
+	top:5px;
+	left:141px;
+	background-image: url("../img/bola.png");
+	background-repeat: no-repeat;
+	
+}.bola2{
+	width: 100px;
+	height: 100px;
+	position:relative;
+	left:200px;
+	bottom:80px;
+	background-image: url("../img/bola.png");
+	background-repeat: no-repeat;
+	
+}
+.bola3{
+	width: 100px;
+	height: 100px;
+	position:relative;
+    top:290px;
+	right:39px;
+	background-image: url("../img/bola.png");
+	background-repeat: no-repeat;
+	
+}
+.arco1{border:solid white;
+	width:150px;
+	height:300px; 
+	position:absolute;
+	left:-3px;
+	top:110px;
+	
+}
+.arco2{
+	border:solid white;
+	width:150px;
+	height:300px; 
+	position:absolute;
+	left:797px;
+	top:110px;
+}
+.circulo{
+
+     width: 300px;
+     height: 300px;
+     border-radius:50%;
+     position:absolute;
+	 left:35%;
+	 top:25%;
+	 border:3px solid white;
+	
+	
+}
+
+
+	
+	
